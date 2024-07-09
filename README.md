@@ -13,6 +13,7 @@ This repository contains implementations of the global sequence alignment algori
 
 - `dynamic_programming.cpp`: Contains the implementation of the global sequence alignment algorithm using the dynamic programming approach.
 - `divide_and_conquer.cpp`: Contains the implementation of the global sequence alignment algorithm using the divide-and-conquer approach.
+- `Report.pdf` : Contains the detailed analysis of thes dynamic programming and divide and conquer approach to sequence alignment
 
 ## How to Run
 
