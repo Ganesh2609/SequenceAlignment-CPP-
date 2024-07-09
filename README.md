@@ -1,7 +1,3 @@
-Here's a detailed README file for your project:
-
----
-
 # Global Sequence Alignment
 
 This repository contains implementations of the global sequence alignment algorithm for general English strings using dynamic programming and divide-and-conquer approaches. These algorithms ensure optimal and efficient string alignment, which is crucial for various applications like bioinformatics, text comparison, and more.
