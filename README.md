@@ -60,37 +60,37 @@ Sequences inputs[] = {
 ### Output
 
 Case 1 :-
-Sequence 1 : 'corr ect'
-Sequence 2 : 'corra ct'
+- Sequence 1 : 'corr ect'
+- Sequence 2 : 'corra ct'
 
 Case 2 :-
-Sequence 1 : 'fast   '
-Sequence 2 : 'fasting'
+- Sequence 1 : 'fast   '
+- Sequence 2 : 'fasting'
 
 Case 3 :-
-Sequence 1 : ' cat'
-Sequence 2 : 'd og'
+- Sequence 1 : ' cat'
+- Sequence 2 : 'd og'
 
 Case 4 :-
-Sequence 1 : 'dog'
-Sequence 2 : 'dig'
+- Sequence 1 : 'dog'
+- Sequence 2 : 'dig'
 
 Case 5 :-
-Sequence 1 : 'interne t'
-Sequence 2 : 'inter est'
+- Sequence 1 : 'interne t'
+- Sequence 2 : 'inter est'
 
 Case 6 :-
-Sequence 1 : 'happ  iness'
-Sequence 2 : 'happenin  g'
+- Sequence 1 : 'happ  iness'
+- Sequence 2 : 'happenin  g'
 
 Case 7 :-
-Sequence 1 : 'co mputer'
-Sequence 2 : 'comm uter'
+- Sequence 1 : 'co mputer'
+- Sequence 2 : 'comm uter'
 
 Case 8 :-
-Sequence 1 : 'programming'
-Sequence 2 : 'progra m   '
+- Sequence 1 : 'programming'
+- Sequence 2 : 'progra m   '
 
 Case 9 :-
-Sequence 1 : 'trans    form'
-Sequence 2 : 'transacti o n'
+- Sequence 1 : 'trans    form'
+- Sequence 2 : 'transacti o n'
